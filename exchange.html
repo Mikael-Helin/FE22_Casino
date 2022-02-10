@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome Mr. <span id="fname"></span> </h1>
+    <p>You have chips to the value 1000000$.<br>How many chips do you want to buy?<br>
+        thank you.
+    </p>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const username = urlParams.get('fname');
+        document.querySelector('#fname').textContent = username || "Mr. Bond";
+    </script>
+</body>
+</html>
