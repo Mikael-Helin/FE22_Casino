@@ -1,0 +1,21 @@
+<script>
+  function js_GET(key){
+    return new URLSearchParams(window.location.search).get(key)
+  }
+
+  function print_name(){
+    document.write(js_GET('name') || 'Unknown');
+  }
+</script>
+
+<h1>Welcome <script>print_name();</script>!</h1>
+
+You have chips to the value 0$.<br>
+<br>
+How many chips do you want to buy?<br>
+<br>
+<a href="index.html"><button>Exit</button></a>
+
+
+
+
