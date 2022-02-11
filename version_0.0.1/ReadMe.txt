@@ -9,7 +9,7 @@
 
 <!-- h4x0r Ü$HiT@-->
 
-<!-- h4x0r MiK@€L-->
+
 
 Let us pretend we have few billionaries Casino from Las Vegas as our stakeholder.
 
