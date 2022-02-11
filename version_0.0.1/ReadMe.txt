@@ -2,7 +2,7 @@
 
 <!-- h4x0r 4d@m -->
 
-<!-- h4x0r 4mj@d     -->
+
 
 <!-- Är det trassligt?? -->
 
