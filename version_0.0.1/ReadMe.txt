@@ -1,3 +1,17 @@
+<!-- h4x0r 4m1r -->
+
+<!-- h4x0r 4d@m -->
+
+<!-- h4x0r 4mj@d-->
+
+<!-- h4x0r j0ħN -->
+
+<!-- h4x0r €rN€$2-->
+
+<!-- h4x0r Ü$HiT@-->
+
+<!-- h4x0r MiK@€L-->
+
 Let us pretend we have few billionaries Casino from Las Vegas as our stakeholder.
 
 As your manager, I want you to do minimal work to complete a few tasks.
