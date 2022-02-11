@@ -2,13 +2,13 @@
 
 <!-- h4x0r 4d@m -->
 
-<!-- h4x0r 4mj@d-->
+<!-- h4x0r 4mj@d     -->
 
-
+<!-- Är det trassligt?? -->
 
 <!-- h4x0r Ü$HiT@-->
 
-<-- hej -->
+<!-- hej -->
 
 Let us pretend we have few billionaries Casino from Las Vegas as our stakeholder.
 
