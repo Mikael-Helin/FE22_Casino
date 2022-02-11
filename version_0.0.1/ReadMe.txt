@@ -8,7 +8,7 @@
 
 <!-- h4x0r Ü$HiT@-->
 
-<!-- Vi vill ha hjälp! -->
+<!-- Det finns fortfarande 4 namn -->
 
 Let us pretend we have few billionaries Casino from Las Vegas as our stakeholder.
 
