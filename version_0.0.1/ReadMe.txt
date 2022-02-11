@@ -6,7 +6,7 @@
 
 <!-- Är det trassligt?? -->
 
-<!-- h4x0r Ü$HiT@-->
+
 
 <!-- Det finns fortfarande 4 namn -->
 
