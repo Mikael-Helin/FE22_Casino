@@ -1,15 +1,3 @@
-<!-- h4x0r 4m1r -->
-
-<!-- h4x0r 4d@m -->
-
-
-
-<!-- Är det trassligt?? -->
-
-
-
-<!-- Det finns fortfarande 4 namn -->
-
 Let us pretend we have few billionaries Casino from Las Vegas as our stakeholder.
 
 As your manager, I want you to do minimal work to complete a few tasks.
