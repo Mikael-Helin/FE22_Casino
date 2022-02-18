@@ -19,16 +19,10 @@ Remember, you are the owner of your own issues, which your friends fix for you.
 
 Step 4. Feel free to merge your solved issue into the main branch.
 
-Example:
+# Example:
 
-Step 1
+Step 1. Mikael - says "I want a padded border around the input field for name in register.html".
 
-Mikael - says "I want a padded border around the input field for name in register.html".
+Step2. John - Creates a new branch, adds the requested border in register.html.
 
-Step2
-
-John - Creates a new branch, adds the requested border in register.html.
-
-Step 3 and 4
-
-Mikael - finds the solution by John fixed, then Mikael merges Johns branch into the main branch.
+Step 3 and 4. Mikael - finds the solution by John fixed, then Mikael merges Johns branch into the main branch.
